@@ -1,12 +1,12 @@
 # Lesen
 
 <p align="center">
-  <img src="LesenScr4.PNG" width="220" alt="Genres">
-  <img src="LesenScr5.PNG" width="220" alt="Romance>
+  <img src="LesenScr4.PNG" width="200" alt="Genres">
+  <img src="LesenScr5.PNG" width="200" alt="Romance>
 </p>
 <p align="center">
-  <img src="LesenScr7.PNG" width="220" alt="Word Translation">
-  <img src="LesenScr9.PNG" width="220" alt="Import">
+  <img src="LesenScr7.PNG" width="200" alt="Word Translation">
+  <img src="LesenScr9.PNG" width="200" alt="Import">
 </p>
 
 Learn German by reading stories you actually want to read.
