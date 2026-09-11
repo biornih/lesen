@@ -1,5 +1,14 @@
 # Lesen
 
+<p align="center">
+  <img src="LesenScr4.PNG" width="220" alt="Genres">
+  <img src="LesenScr5.PNG" width="220" alt="Romance>
+</p>
+<p align="center">
+  <img src="LesenScr7.PNG" width="220" alt="Word Translation">
+  <img src="LesenScr9.PNG" width="220" alt="Import">
+</p>
+
 Learn German by reading stories you actually want to read.
 
 A native iOS and macOS app for **graded reading**: short novels written to a
